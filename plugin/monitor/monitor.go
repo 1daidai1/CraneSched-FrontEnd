@@ -28,8 +28,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/1daidai1/CraneFrontEnd/api"
-	"github.com/1daidai1/CraneFrontEnd/generated/protos"
+	"github.com/1daidai1/CraneSched-FrontEnd/api"
+	"github.com/1daidai1/CraneSched-FrontEnd/generated/protos"
 
 	influxdb2 "github.com/influxdata/influxdb-client-go/v2"
 	"gopkg.in/yaml.v3"

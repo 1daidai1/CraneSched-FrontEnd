@@ -24,8 +24,8 @@ import (
 	"path/filepath"
 	"plugin"
 
-	"github.com/1daidai1/CraneFrontEnd/api"
-	"github.com/1daidai1/CraneFrontEnd/internal/util"
+	"github.com/1daidai1/CraneSched-FrontEnd/api"
+	"github.com/1daidai1/CraneSched-FrontEnd/internal/util"
 
 	log "github.com/sirupsen/logrus"
 	yaml "gopkg.in/yaml.v3"

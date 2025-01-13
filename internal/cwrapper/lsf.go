@@ -28,11 +28,11 @@ import (
 	"strings"
 	"time"
 
-	"github.com/1daidai1/CraneFrontEnd/internal/cacct"
-	"github.com/1daidai1/CraneFrontEnd/internal/cbatch"
-	"github.com/1daidai1/CraneFrontEnd/internal/ccancel"
-	"github.com/1daidai1/CraneFrontEnd/internal/cinfo"
-	"github.com/1daidai1/CraneFrontEnd/internal/cqueue"
+	"github.com/1daidai1/CraneSched-FrontEnd/internal/cacct"
+	"github.com/1daidai1/CraneSched-FrontEnd/internal/cbatch"
+	"github.com/1daidai1/CraneSched-FrontEnd/internal/ccancel"
+	"github.com/1daidai1/CraneSched-FrontEnd/internal/cinfo"
+	"github.com/1daidai1/CraneSched-FrontEnd/internal/cqueue"
 
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"

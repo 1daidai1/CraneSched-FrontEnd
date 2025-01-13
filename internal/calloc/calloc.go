@@ -28,8 +28,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/1daidai1/CraneFrontEnd/generated/protos"
-	"github.com/1daidai1/CraneFrontEnd/internal/util"
+	"github.com/1daidai1/CraneSched-FrontEnd/generated/protos"
+	"github.com/1daidai1/CraneSched-FrontEnd/internal/util"
 
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"

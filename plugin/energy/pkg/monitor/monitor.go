@@ -6,11 +6,11 @@ import (
 
 	logrus "github.com/sirupsen/logrus"
 
-	"github.com/1daidai1/CraneFrontEnd/plugin/energy/pkg/config"
-	"github.com/1daidai1/CraneFrontEnd/plugin/energy/pkg/gpu"
-	"github.com/1daidai1/CraneFrontEnd/plugin/energy/pkg/ipmi"
-	"github.com/1daidai1/CraneFrontEnd/plugin/energy/pkg/rapl"
-	"github.com/1daidai1/CraneFrontEnd/plugin/energy/pkg/sysload"
+	"github.com/1daidai1/CraneSched-FrontEnd/plugin/energy/pkg/config"
+	"github.com/1daidai1/CraneSched-FrontEnd/plugin/energy/pkg/gpu"
+	"github.com/1daidai1/CraneSched-FrontEnd/plugin/energy/pkg/ipmi"
+	"github.com/1daidai1/CraneSched-FrontEnd/plugin/energy/pkg/rapl"
+	"github.com/1daidai1/CraneSched-FrontEnd/plugin/energy/pkg/sysload"
 )
 
 var log = logrus.WithField("component", "Monitor")

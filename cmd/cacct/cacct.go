@@ -18,7 +18,7 @@
 
 package main
 
-import "github.com/1daidai1/CraneFrontEnd/internal/cacct"
+import "github.com/1daidai1/CraneSched-FrontEnd/internal/cacct"
 
 func main() {
 	cacct.ParseCmdArgs()

@@ -23,7 +23,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/1daidai1/CraneFrontEnd/generated/protos"
+	"github.com/1daidai1/CraneSched-FrontEnd/generated/protos"
 
 	log "github.com/sirupsen/logrus"
 )

@@ -22,7 +22,7 @@ import (
 	"os"
 	"regexp"
 
-	"github.com/1daidai1/CraneFrontEnd/internal/util"
+	"github.com/1daidai1/CraneSched-FrontEnd/internal/util"
 
 	log "github.com/sirupsen/logrus"
 

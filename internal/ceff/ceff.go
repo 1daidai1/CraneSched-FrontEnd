@@ -29,8 +29,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/1daidai1/CraneFrontEnd/generated/protos"
-	"github.com/1daidai1/CraneFrontEnd/internal/util"
+	"github.com/1daidai1/CraneSched-FrontEnd/generated/protos"
+	"github.com/1daidai1/CraneSched-FrontEnd/internal/util"
 
 	influxdb2 "github.com/influxdata/influxdb-client-go/v2"
 	log "github.com/sirupsen/logrus"

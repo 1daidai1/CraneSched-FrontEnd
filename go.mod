@@ -1,4 +1,4 @@
-module github.com/1daidai1/CraneFrontEnd
+module github.com/1daidai1/CraneSched-FrontEnd
 
 go 1.22
 

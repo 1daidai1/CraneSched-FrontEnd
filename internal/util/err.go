@@ -21,7 +21,7 @@ package util
 import (
 	"fmt"
 
-	"github.com/1daidai1/CraneFrontEnd/generated/protos"
+	"github.com/1daidai1/CraneSched-FrontEnd/generated/protos"
 )
 
 type CraneCmdError = int
