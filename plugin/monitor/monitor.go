@@ -25,10 +25,11 @@ import (
 	"strings"
 	"sync"
 
-	"CraneFrontEnd/api"
-	"CraneFrontEnd/generated/protos"
 	"os"
 	"time"
+
+	"github.com/1daidai1/CraneFrontEnd/api"
+	"github.com/1daidai1/CraneFrontEnd/generated/protos"
 
 	influxdb2 "github.com/influxdata/influxdb-client-go/v2"
 	"gopkg.in/yaml.v3"

@@ -19,12 +19,13 @@
 package cplugind
 
 import (
-	"CraneFrontEnd/api"
-	"CraneFrontEnd/internal/util"
 	"fmt"
 	"os"
 	"path/filepath"
 	"plugin"
+
+	"github.com/1daidai1/CraneFrontEnd/api"
+	"github.com/1daidai1/CraneFrontEnd/internal/util"
 
 	log "github.com/sirupsen/logrus"
 	yaml "gopkg.in/yaml.v3"

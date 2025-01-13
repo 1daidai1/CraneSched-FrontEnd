@@ -19,7 +19,7 @@
 package main
 
 import (
-	cacctmgr "CraneFrontEnd/internal/cacctmgr"
+	cacctmgr "github.com/1daidai1/CraneFrontEnd/internal/cacctmgr"
 )
 
 func main() {

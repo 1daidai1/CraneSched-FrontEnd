@@ -18,7 +18,7 @@
 
 package main
 
-import "CraneFrontEnd/internal/cbatch"
+import "github.com/1daidai1/CraneFrontEnd/internal/cbatch"
 
 func main() {
 	cbatch.ParseCmdArgs()

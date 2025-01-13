@@ -19,7 +19,7 @@
 package main
 
 import (
-	"CraneFrontEnd/internal/cqueue"
+	"github.com/1daidai1/CraneFrontEnd/internal/cqueue"
 )
 
 func main() {

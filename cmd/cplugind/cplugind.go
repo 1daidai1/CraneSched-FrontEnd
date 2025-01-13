@@ -18,7 +18,7 @@
 
 package main
 
-import "CraneFrontEnd/internal/cplugind"
+import "github.com/1daidai1/CraneFrontEnd/internal/cplugind"
 
 func main() {
 	cplugind.ParseCmdArgs()

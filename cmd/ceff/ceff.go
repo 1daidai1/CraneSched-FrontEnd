@@ -18,7 +18,7 @@
 
 package main
 
-import "CraneFrontEnd/internal/ceff"
+import "github.com/1daidai1/CraneFrontEnd/internal/ceff"
 
 func main() {
 	ceff.ParseCmdArgs()

@@ -18,7 +18,7 @@
 
 package main
 
-import "CraneFrontEnd/internal/crun"
+import "github.com/1daidai1/CraneFrontEnd/internal/crun"
 
 func main() {
 	crun.ParseCmdArgs()

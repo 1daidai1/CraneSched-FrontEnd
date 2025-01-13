@@ -19,17 +19,6 @@
 package cwrapper
 
 import (
-	"CraneFrontEnd/generated/protos"
-	"CraneFrontEnd/internal/cacct"
-	"CraneFrontEnd/internal/cacctmgr"
-	"CraneFrontEnd/internal/calloc"
-	"CraneFrontEnd/internal/cbatch"
-	"CraneFrontEnd/internal/ccancel"
-	"CraneFrontEnd/internal/ccontrol"
-	"CraneFrontEnd/internal/cinfo"
-	"CraneFrontEnd/internal/cqueue"
-	"CraneFrontEnd/internal/crun"
-	"CraneFrontEnd/internal/util"
 	"errors"
 	"fmt"
 	"os"
@@ -38,6 +27,18 @@ import (
 	"strconv"
 	"strings"
 	"time"
+
+	"github.com/1daidai1/CraneFrontEnd/generated/protos"
+	"github.com/1daidai1/CraneFrontEnd/internal/cacct"
+	"github.com/1daidai1/CraneFrontEnd/internal/cacctmgr"
+	"github.com/1daidai1/CraneFrontEnd/internal/calloc"
+	"github.com/1daidai1/CraneFrontEnd/internal/cbatch"
+	"github.com/1daidai1/CraneFrontEnd/internal/ccancel"
+	"github.com/1daidai1/CraneFrontEnd/internal/ccontrol"
+	"github.com/1daidai1/CraneFrontEnd/internal/cinfo"
+	"github.com/1daidai1/CraneFrontEnd/internal/cqueue"
+	"github.com/1daidai1/CraneFrontEnd/internal/crun"
+	"github.com/1daidai1/CraneFrontEnd/internal/util"
 
 	"github.com/olekukonko/tablewriter"
 	log "github.com/sirupsen/logrus"

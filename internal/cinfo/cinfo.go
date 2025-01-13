@@ -19,14 +19,15 @@
 package cinfo
 
 import (
-	"CraneFrontEnd/generated/protos"
-	"CraneFrontEnd/internal/util"
 	"context"
 	"fmt"
 	"os"
 	"strconv"
 	"strings"
 	"time"
+
+	"github.com/1daidai1/CraneFrontEnd/generated/protos"
+	"github.com/1daidai1/CraneFrontEnd/internal/util"
 
 	"github.com/olekukonko/tablewriter"
 	log "github.com/sirupsen/logrus"

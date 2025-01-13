@@ -19,12 +19,13 @@
 package cplugind
 
 import (
-	"CraneFrontEnd/api"
-	"CraneFrontEnd/generated/protos"
-	"CraneFrontEnd/internal/util"
 	"context"
 	"net"
 	"os"
+
+	"github.com/1daidai1/CraneFrontEnd/api"
+	"github.com/1daidai1/CraneFrontEnd/generated/protos"
+	"github.com/1daidai1/CraneFrontEnd/internal/util"
 
 	log "github.com/sirupsen/logrus"
 	"google.golang.org/grpc"

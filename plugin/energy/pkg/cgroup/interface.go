@@ -3,7 +3,7 @@ package cgroup
 import (
 	"fmt"
 
-	"CraneFrontEnd/plugin/energy/pkg/types"
+	"github.com/1daidai1/CraneFrontEnd/plugin/energy/pkg/types"
 )
 
 type CgroupReader interface {

@@ -19,8 +19,8 @@
 package util
 
 import (
-	"CraneFrontEnd/generated/protos"
 	"fmt"
+	"github.com/1daidai1/CraneFrontEnd/generated/protos"
 	"math"
 	"os"
 	"path"

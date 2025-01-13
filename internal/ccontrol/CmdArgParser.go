@@ -19,9 +19,10 @@
 package ccontrol
 
 import (
-	"CraneFrontEnd/internal/util"
 	"os"
 	"regexp"
+
+	"github.com/1daidai1/CraneFrontEnd/internal/util"
 
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"

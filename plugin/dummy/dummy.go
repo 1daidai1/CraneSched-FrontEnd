@@ -20,8 +20,8 @@
 package main
 
 import (
-	"CraneFrontEnd/api"
-	"CraneFrontEnd/generated/protos"
+	"github.com/1daidai1/CraneFrontEnd/api"
+	"github.com/1daidai1/CraneFrontEnd/generated/protos"
 
 	log "github.com/sirupsen/logrus"
 )

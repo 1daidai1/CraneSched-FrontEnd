@@ -19,11 +19,12 @@
 package ccancel
 
 import (
-	"CraneFrontEnd/generated/protos"
-	"CraneFrontEnd/internal/util"
 	"context"
 	"fmt"
 	"os"
+
+	"github.com/1daidai1/CraneFrontEnd/generated/protos"
+	"github.com/1daidai1/CraneFrontEnd/internal/util"
 
 	log "github.com/sirupsen/logrus"
 )

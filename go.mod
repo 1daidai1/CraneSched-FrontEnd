@@ -1,4 +1,4 @@
-module CraneFrontEnd
+module github.com/1daidai1/CraneFrontEnd
 
 go 1.22
 

@@ -19,7 +19,7 @@
 package main
 
 import (
-	"CraneFrontEnd/internal/ccontrol"
+	"github.com/1daidai1/CraneFrontEnd/internal/ccontrol"
 )
 
 func main() {

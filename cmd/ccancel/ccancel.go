@@ -19,7 +19,7 @@
 package main
 
 import (
-	"CraneFrontEnd/internal/ccancel"
+	"github.com/1daidai1/CraneFrontEnd/internal/ccancel"
 )
 
 func main() {

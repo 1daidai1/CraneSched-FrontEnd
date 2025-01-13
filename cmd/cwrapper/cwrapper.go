@@ -18,7 +18,7 @@
 
 package main
 
-import "CraneFrontEnd/internal/cwrapper"
+import "github.com/1daidai1/CraneFrontEnd/internal/cwrapper"
 
 func main() {
 	cwrapper.ParseCmdArgs()

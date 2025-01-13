@@ -19,10 +19,11 @@
 package cfored
 
 import (
-	"CraneFrontEnd/generated/protos"
 	"context"
 	"sync"
 	"time"
+
+	"github.com/1daidai1/CraneFrontEnd/generated/protos"
 
 	log "github.com/sirupsen/logrus"
 )
