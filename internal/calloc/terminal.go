@@ -25,7 +25,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/1daidai1/CraneSched-FrontEnd/internal/util"
+	"github.com/1daidai1/CraneSched-FrontEnd/pkg/util"
 
 	"github.com/pkg/term/termios"
 	log "github.com/sirupsen/logrus"

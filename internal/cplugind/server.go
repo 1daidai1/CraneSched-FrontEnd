@@ -25,7 +25,7 @@ import (
 
 	"github.com/1daidai1/CraneSched-FrontEnd/api"
 	"github.com/1daidai1/CraneSched-FrontEnd/generated/protos"
-	"github.com/1daidai1/CraneSched-FrontEnd/internal/util"
+	"github.com/1daidai1/CraneSched-FrontEnd/pkg/util"
 
 	log "github.com/sirupsen/logrus"
 	"google.golang.org/grpc"

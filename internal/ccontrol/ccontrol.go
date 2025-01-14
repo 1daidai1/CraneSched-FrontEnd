@@ -31,7 +31,7 @@ import (
 	"time"
 
 	"github.com/1daidai1/CraneSched-FrontEnd/generated/protos"
-	"github.com/1daidai1/CraneSched-FrontEnd/internal/util"
+	"github.com/1daidai1/CraneSched-FrontEnd/pkg/util"
 
 	"gopkg.in/yaml.v3"
 

@@ -22,7 +22,7 @@ import "C"
 
 import (
 	"github.com/1daidai1/CraneSched-FrontEnd/generated/protos"
-	"github.com/1daidai1/CraneSched-FrontEnd/internal/util"
+	"github.com/1daidai1/CraneSched-FrontEnd/pkg/util"
 
 	"github.com/pkg/term/termios"
 	"golang.org/x/sys/unix"

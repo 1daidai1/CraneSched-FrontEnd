@@ -30,7 +30,7 @@ import (
 	"time"
 
 	"github.com/1daidai1/CraneSched-FrontEnd/generated/protos"
-	"github.com/1daidai1/CraneSched-FrontEnd/internal/util"
+	"github.com/1daidai1/CraneSched-FrontEnd/pkg/util"
 
 	influxdb2 "github.com/influxdata/influxdb-client-go/v2"
 	log "github.com/sirupsen/logrus"

@@ -24,7 +24,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/1daidai1/CraneSched-FrontEnd/internal/util"
+	"github.com/1daidai1/CraneSched-FrontEnd/pkg/util"
 
 	"github.com/1daidai1/CraneSched-FrontEnd/generated/protos"
 
